@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.py": "python",
         "cstdio": "cpp",
         "*cppratio": "cpp",
         "ratio": "cpp",
@@ -30,6 +31,13 @@
         "random": "cpp",
         "limits": "cpp",
         "*h*h*h*h*h*h*h*h*h*h*h*h*hvalarray": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "rope": "cpp",
+        "slist": "cpp",
+        "initializer_list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp"
     }
 }
